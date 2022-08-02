@@ -1,0 +1,7 @@
+author = Ceribe
+version = 0.0.4
+displayName = Kagami - MtG Inspired Mod
+homepage = https://forums.terraria.org/index.php?threads/kagamimod-mtg-inspired-mod.80256/
+hideCode = true
+hideResources = true
+includeSource = false
