@@ -3,6 +3,7 @@
 # Description
 
 I started writing this mod even before starting my education at Univeristy so it was my first "real" programming project. 
+In those dark times I have't used git yet, so sadly there is no commit history.
 I have not tried compiling it since 2019 and I doubt that it would compile now, because TModLoader and Terraria went 
 through some massive changes since then. Code quality is at best poor, but not terrible. The only reason as to why this is here is
 nostalgia and the fact that some sprites are quite good.
