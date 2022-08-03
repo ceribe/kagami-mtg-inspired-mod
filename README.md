@@ -9,7 +9,7 @@ through some massive changes since then. ~~Code quality is at best poor, but not
 I changed my mind after looking at [Bag_Of_Eyes.cs](https://github.com/ceribe/kagami-mtg-inspired-mod/blob/master/Items/SummonItems/Bag_Of_Eyes.cs).
 Code quality is terrible. The only reason as to why this is here is nostalgia and the fact that some sprites are quite good.
 
-# Mod Descpription
+# Mod Description
 Kagami is an MtG themed mod. Most of the content of this mod is related to Magic: the Gathering lore.
 So far the mod is focused on Ravinica & Ixalan related content, but there are many items from other planes.
 So far this mod adds:
