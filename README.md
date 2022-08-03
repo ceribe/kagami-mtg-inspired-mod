@@ -5,8 +5,9 @@
 I started writing this mod even before starting my education at Univeristy so it was my first "real" programming project. 
 In those dark times I have't used git yet, so sadly there is no commit history.
 I have not tried compiling it since 2019 and I doubt that it would compile now, because TModLoader and Terraria went 
-through some massive changes since then. Code quality is at best poor, but not terrible. The only reason as to why this is here is
-nostalgia and the fact that some sprites are quite good.
+through some massive changes since then. ~~Code quality is at best poor, but not terrible~~ 
+I changed my mind after looking at [Bag_Of_Eyes.cs](https://github.com/ceribe/kagami-mtg-inspired-mod/blob/master/Items/SummonItems/Bag_Of_Eyes.cs).
+Code quality is terrible. The only reason as to why this is here is nostalgia and the fact that some sprites are quite good.
 
 # Mod Descpription
 Kagami is an MtG themed mod. Most of the content of this mod is related to Magic: the Gathering lore.
