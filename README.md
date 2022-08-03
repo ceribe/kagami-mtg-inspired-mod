@@ -10,6 +10,7 @@ I changed my mind after looking at [Bag_Of_Eyes.cs](https://github.com/ceribe/ka
 Code quality is terrible. The only reason as to why this is here is nostalgia and the fact that some sprites are quite good.
 
 # Mod Description
+
 Kagami is an MtG themed mod. Most of the content of this mod is related to Magic: the Gathering lore.
 So far the mod is focused on Ravinica & Ixalan related content, but there are many items from other planes.
 So far this mod adds:
@@ -25,14 +26,16 @@ Most of the legendary weapons are unobtainable ATM alongside with some other ite
 Out of 10 Ravnican guilds, Orzhov, Boros and Simic themed items were added so far.
 This mod supports Boss Checklist mod.
 
-# Todo (Most likely never):
+# TODO (Most likely never)
+
 - Add next Guild's themed items and monsters
 - Balance some of the items
 - Rework Lightning Helix
 - Rebalancing of some items
 - Making all of the legendary items obtainable
 
-# Changelog:
+# Changelog
+
 ## 0.0.4 (The Simic Update):
 - Added Simic themed items (Mutations, ammo and guild buff)
 - Removed Neoform Potion
