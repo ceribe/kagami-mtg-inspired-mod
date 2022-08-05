@@ -29,9 +29,8 @@ This mod supports Boss Checklist mod.
 # TODO (Most likely never)
 
 - Add next Guild's themed items and monsters
-- Balance some of the items
+- Rebalance some of the items
 - Rework Lightning Helix
-- Rebalancing of some items
 - Making all of the legendary items obtainable
 
 # Changelog
